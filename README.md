@@ -4,13 +4,14 @@
 
 I develop responsive web products from front-end UI architecture to live production deployments. Passionate about writing maintainable code, strengthening software engineering fundamentals in **Full-Stack Development**, and expanding into practical **AI Agents & Workflow Automations**.
 
-📍 Jaipur, India &nbsp;|&nbsp; 💼 [LinkedIn](https://in.linkedin.com/in/devesh-kumar-meena-873673258) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/deevsh9672)
+📍 Gurugram, Haryana, India &nbsp;|&nbsp; 💼 [LinkedIn](https://in.linkedin.com/in/devesh-kumar-meena-873673258) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/deevsh9672)
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 **Final Year Computer Science & Engineering** student focusing on full-stack web development and scalable architectures.
+- 💼 **Currently Working**: Full-Stack Developer building and shipping scalable web applications and business automations.
+- 🎓 **Computer Science & Engineering Background**: Strong foundation in full-stack architecture, modern JavaScript/TypeScript ecosystems, and API design.
 - 💻 **Full-Stack Development**: Designing responsive, mobile-first web applications using **React, TypeScript, JavaScript (ES6+)**, and **Node.js / Express**.
 - ⚙️ **Automation & Backend**: Building workflows and backend utilities using **n8n, Python, REST APIs**, and **MongoDB**.
 - 🚀 **Real-World Impact**: Shipped client-facing websites, business landing pages, and lead-generation tools.
@@ -85,7 +86,7 @@ I develop responsive web products from front-end UI architecture to live product
 
 ### 🎯 Current Focus
 
-- 💼 Open for **Software Development Engineer (SDE)** internships, full-time junior roles, and freelance web projects.
+- 💼 Open for high-impact **Software Development Engineer (SDE)** roles, full-stack opportunities, and select freelance projects.
 - 🚀 Delivering production-grade, fast web solutions that drive measurable business outcomes.
 - 📈 Consistently shipping projects and documenting engineering progress on GitHub.
 
@@ -95,4 +96,4 @@ I develop responsive web products from front-end UI architecture to live product
 
 - 💼 **LinkedIn:** [linkedin.com/in/devesh-kumar-meena-873673258](https://in.linkedin.com/in/devesh-kumar-meena-873673258)
 - 🐙 **GitHub:** [@deevsh9672](https://github.com/deevsh9672)
-- 📍 **Location:** Jaipur, Rajasthan, India
+- 📍 **Location:** Gurugram, Haryana, India
